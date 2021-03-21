@@ -29,11 +29,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/ankitsumitg/) in [ankitsumitg/free](https://github.com/ankitsumitg/)
-2. 🗣 Commented on [#8](https://github.com/ankitsumitg/) in [ankitsumitg/free](https://github.com/ankitsumitg/)
-3. 🗣 Commented on [#7](https://github.com/ankitsumitg/) in [ankitsumitg/free](https://github.com/ankitsumitg/)
-4. 🎉 Merged PR [#7](https://github.com/ankitsumitg/free/pull/7) in [ankitsumitg/free](https://github.com/ankitsumitg/)
-5. 🗣 Commented on [#3](https://github.com/ankitsumitg/) in [ankitsumitg/ankitsumitg](https://github.com/ankitsumitg/)
+
 <!--END_SECTION:activity-->
 
 </details>
