@@ -4,6 +4,9 @@
 [![Github](https://img.shields.io/github/followers/ankitsumitg?color=black&style=for-the-badge&logo=github)](https://github.com/ankitsumitg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankitsumitg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankitsumitg&screen_name=ankitsumitg)
 
+
+![Alt Text][neural]
+
 ## I'm a Coder & Proud Geek 👨🏻‍💻!!!
 
 - Working. Trying my best to work & contribute towards a better cause, have a great impact on people & less impact on environment. 🌲💚💚💚
@@ -40,7 +43,7 @@
 <!--END_SECTION:activity-->
 
 
-
+[neural]:https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy-downsized.gif
 [website]: Linkedin
 [twitter]: https://twitter.com/ankitsumitg
 [instagram]: https://instagram.com/ankitsumitg/
