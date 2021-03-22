@@ -34,7 +34,7 @@
 ### *<ins>Recent Activity</ins> ->*
 
 <!--START_SECTION:activity-->
-* Worked on something. ⚒
+* Worked on some code. ⚒
 * Had a lot of coffee ☕ and some food. 🍔🍕🍲
 * Comited some code. 💾
 * Slept. 😴
