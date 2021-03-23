@@ -18,6 +18,7 @@
 ---
 ### My Life Philosophy
 > If you don’t have any shadows, you’re not standing in the light ~ ***Lady Gaga***
+
 ---
 ### Workspace Spec 💻
 <img src="https://img.shields.io/badge/Windows-HP_Pavillion-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-gtx%20950m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
