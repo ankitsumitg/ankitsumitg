@@ -14,8 +14,10 @@
 - Wish me on 22nd April. 😅
 - I also do Competitive Programming and Capture the Flag challenges just for fun mostly. 💻😀
 - I’m currently getting my hands dirty on Rust. 👦🏻
+- Do checkout my repos. 👨🏻‍💻🖱
+- Liked a repo. ⭐ It!
+- Found a bug 🐛, file an issue!
 - Reach me on Discord for anything. 🦸‍♂️
-- Do checkout my projects. 👨🏻‍💻🖱
 ---
 ### My Life Philosophy
 > If you don’t have any shadows, you’re not standing in the light ~ ***Lady Gaga***
@@ -48,6 +50,12 @@
 * Slept. 😴
 * Repeat. 🔁
 ---
+<p align="center">
+<img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+</p>
+
+---
+
 <!--END_SECTION:activity-->
 
 
