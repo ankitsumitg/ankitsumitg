@@ -15,6 +15,7 @@
 - I also do Competitive Programming and Capture the Flag challenges just for fun mostly. 💻😀
 - I’m currently getting my hands dirty on Rust. 👦🏻
 - Reach me on Discord for anything. 🦸‍♂️
+- Do checkout my projects. 👨🏻‍💻🖱
 ---
 ### My Life Philosophy
 > If you don’t have any shadows, you’re not standing in the light ~ ***Lady Gaga***
