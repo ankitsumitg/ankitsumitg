@@ -6,17 +6,17 @@ src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif"
 alt="Alt Text"></p>
 <p align="center">
 <a href="https://discord.gg/BfDQSh8q"><img
-    src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&amp;logo=discord"
+    src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord"
     alt="Discord"></a>
 <a href="https://github.com/ankitsumitg"><img
-    src="https://img.shields.io/github/followers/ankitsumitg?color=black&amp;style=for-the-badge&amp;logo=github"
+    src="https://img.shields.io/github/followers/ankitsumitg?color=black&style=for-the-badge&logo=github"
     alt="Github"></a>
 <a href="https://github.com/ankitsumitg"><img
-    src="https://badges.pufler.dev/commits/monthly/ankitsumitg?style=for-the-badge&amp;logo=git"
+    src="https://badges.pufler.dev/commits/monthly/ankitsumitg?style=for-the-badge&logo=git"
     alt="Commits Badge"></a>
 <a
-    href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankitsumitg&amp;screen_name=ankitsumitg"><img
-    src="https://img.shields.io/twitter/follow/ankitsumitg?color=1DA1F2&amp;logo=twitter&amp;style=for-the-badge"
+    href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fankitsumitg&screen_name=ankitsumitg"><img
+    src="https://img.shields.io/twitter/follow/ankitsumitg?color=1DA1F2&logo=twitter&style=for-the-badge"
     alt="Twitter Follow"></a>
 </p>
 
@@ -65,7 +65,8 @@ alt="Alt Text"></p>
 * Repeat. 🔁
 ---
 <p align="center">
-<img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img  src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img  src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </p>
 
 ---
