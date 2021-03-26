@@ -1,6 +1,6 @@
-<h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine-linkedin-">Hello Friend, I'm Ankit - aka
+<h2 align="center" id="hello-friend-i-m-ankit-aka-ankitsumitg-saphine">Hello Friend 🙋🏻‍♂️, I'm Ankit - aka
 <a href="https://ankitsumitg.github.io/">ankitsumitg | saphine</a>
-👋</h2>
+🤠</h2>
 <p align="center"><img
 src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif"
 alt="Alt Text"></p>
