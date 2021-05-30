@@ -5,7 +5,7 @@
 src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy-downsized.gif"
 alt="Alt Text"></p>
 <p align="center">
-<a href="https://discord.gg/BfDQSh8q"><img
+<a href="https://discord.gg/kb3q2cNn87"><img
     src="https://img.shields.io/discord/599635129278660609?style=for-the-badge&logo=discord"
     alt="Discord"></a>
 <a href="https://github.com/ankitsumitg"><img
@@ -52,7 +52,42 @@ alt="Alt Text"></p>
 
 ---
 ### Skills and Tools:
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img
+src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=063970" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=256cad" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=c83536" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=f24c06" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=purple" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Uh oh"/>
+<img 
+src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Uh oh"/>
+<img 
+src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Uh oh"/>
+<img
+src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Uh oh"/>
 
 ---
 <p>
@@ -92,7 +127,7 @@ alt="Alt Text"></p>
 [linkedin]: https://www.linkedin.com/in/ankitsumitg/
 [reddit]:https://www.reddit.com/user/ankitsumitg
 [github]:https://github.com/ankitsumitg
-[discord]:https://discord.gg/BfDQSh8q
+[discord]:https://discord.gg/kb3q2cNn87
 [twitch]:https://www.twitch.tv/saphine__
 
 <!---
